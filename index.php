@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Localhost</title>
+  <title>Marvel Localhost</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -9,7 +9,6 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
   <link href="fav.ico" rel="shortcut icon">
-
   <style type="text/css">
 	body{
 		font-family: monospace;
@@ -18,7 +17,7 @@
 		text-shadow: 0px 0px 50px black;
 		background: black;
 		color: black;
-		background:url('http://localhost/bgblk.jpg') repeat fixed;
+		background:url('assets/img/bgblk.jpg') repeat fixed;
 		background-blend-mode: color-dodge;
 	}
 	small{
@@ -27,7 +26,7 @@
 
 	.dark-bg
 	{
-		background:url('http://localhost/bg-banner.jpg') center top;
+		background:url('assets/img/bg-banner.jpg') center top;
 		height: 300px;
 	}
 	thead {
